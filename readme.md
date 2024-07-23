@@ -34,3 +34,11 @@ Embark on your AI/ML journey with SLIIT’s expertly crafted course materials an
 ---
 ![Lecture1 Part b ](https://github.com/user-attachments/assets/81a97fa9-ff1d-492b-8cf4-bba50f2069fc)
 
+![Lecture_2 2_b](https://github.com/user-attachments/assets/694d9c57-f2d4-4108-9518-0ffc90336dd8)
+
+![Lecture_2 2_c](https://github.com/user-attachments/assets/0c836206-b005-4570-b0e9-90fbb4abe1ed)
+
+![Lecture_2 2_d](https://github.com/user-attachments/assets/0b1afdda-a727-441e-ab8d-b7fc3441cdfb)
+
+
+
