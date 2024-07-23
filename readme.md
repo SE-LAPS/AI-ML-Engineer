@@ -30,3 +30,7 @@ Welcome to the resource files for Week 02 of the free AI/ML course offered by SL
 
 ### 🚀 Get Started Today!
 Embark on your AI/ML journey with SLIIT’s expertly crafted course materials and video lectures. Happy learning!
+
+---
+![Lecture1 Part b ](https://github.com/user-attachments/assets/81a97fa9-ff1d-492b-8cf4-bba50f2069fc)
+
