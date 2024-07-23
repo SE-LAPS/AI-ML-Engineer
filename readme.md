@@ -27,7 +27,6 @@ Welcome to the resource files for Week 02 of the free AI/ML course offered by SL
 
 ---
 
-(c) Nuwan Kodagoda, SLIIT
 
 ### 🚀 Get Started Today!
 Embark on your AI/ML journey with SLIIT’s expertly crafted course materials and video lectures. Happy learning!
