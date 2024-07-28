@@ -1,4 +1,4 @@
-# 🧠 Python Programs from SLIIT - Artificial Intelligence Engineer - Stage 1 & Stage 2 & Stage 3
+# 🧠 Artificial Intelligence Engineer - Stage-1 & Stage-2 & Stage-3
 
 ## 🎓 AIML Course - AI/ML Engineer - Part 1 & Part 2 & Part 3
 
@@ -41,6 +41,6 @@ Embark on your AI/ML journey with SLIIT’s expertly crafted course materials an
 ![Lecture_2 2_d](https://github.com/user-attachments/assets/0b1afdda-a727-441e-ab8d-b7fc3441cdfb)
 
 
-## License🔰
+##  🔰License
 
 This project is licensed under the MIT License - see the [LICENSE](https://bit.ly/Lahiru_Senavirathna) file for details.
